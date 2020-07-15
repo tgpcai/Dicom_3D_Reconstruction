@@ -13,4 +13,4 @@ VR_dicom: use Volume rendering to complete Dicom_3D_Reconstruction
 
 SR_dicom_with_MC: use MC algorithm to complete Dicom_3D_Reconstruction
 
-u can see more information through my blog:https://www.cnblogs.com/XDU-Lakers/p/10822840.html
+
